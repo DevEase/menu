@@ -1,6 +1,6 @@
 /*
     (c) 2015 Brayden Strasen & Ryan Palmer
-    http://creativecommons.org/licenses/by-nc-nd/4.0/
+    https://creativecommons.org/licenses/by-nc-sa/4.0/
 */
 var players = [],
     masterServers = [],
